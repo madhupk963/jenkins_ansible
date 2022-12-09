@@ -1,0 +1,7 @@
+---
+# defaults file for jenkins
+
+java: default-jdk
+jenkins_key: https://pkg.jenkins.io/debian-stable/jenkins.io.key
+jenkins_repo: deb  http://pkg.jenkins.io/debian-stable binary/
+package: jenkins
